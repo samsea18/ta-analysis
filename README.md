@@ -40,7 +40,7 @@ The strategies are benchmarked against the SPY ETF over the period from **May 20
 ## Visualisation
 
 Cumulative returns of all indicator strategies compared to SPY:
-- Please refer to POC Script.ipynb
+- Please refer to Visualisations in https://github.com/samsea18/ta-analysis/blob/main/ta-analysis/notebooks/POC%20Script.ipynb 
 
 ## Future Work
 
