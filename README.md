@@ -2,7 +2,7 @@
 
 This project implements and evaluates simple technical indicator-based trading strategies (SMA, EMA, RSI, MACD, Bollinger Bands) to construct quarterly rebalanced portfolios. 
 
-The strategies are benchmarked against the SPY ETF over the period from **May 2022 to May 2025**.
+The strategies are benchmarked against the SPY ETF over the period from **June 2022 to June 2025**.
 
 ## Objectives
 
@@ -27,10 +27,10 @@ The strategies are benchmarked against the SPY ETF over the period from **May 20
 - **Rebalance Frequency**:  
   - Quarterly, on the **3rd Friday of March, June, September, and December** to align with S&P's rebalancing dates.
 
-## Key Findings (May 2022 – July 2025)
+## Key Findings (June 2022 – June 2025)
 
-- From **May 2022 to May 2024**, **MACD** and **Bollinger Bands** outperformed the SPY benchmark in cumulative returns.
-- After **May 2024**, the **SPY benchmark began to outperform all strategies**.
+- From **June 2022 to June 2024**, **MACD** and **Bollinger Bands** outperformed the SPY benchmark in cumulative returns.
+- After **June 2024**, the **SPY benchmark began to outperform all strategies**.
 - Among all indicators:
   - **MACD** showed the most consistent outperformance early on but converged with SPY after mid-2024.
   - **Bollinger Bands** remained the **second-best** performing strategy.
